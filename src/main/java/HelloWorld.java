@@ -16,6 +16,8 @@ public class HelloWorld {
         System.out.print(" ");
         System.out.print("World");
 
+        System.out.println("Hello");
+
         class HTMLParser { //HTML - общепринятая аббревиатура
         }
     }
